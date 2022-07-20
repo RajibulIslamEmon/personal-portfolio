@@ -88,6 +88,7 @@
 
 .missionPart__boxe {
     width: 20%;
+    box-shadow: 5px 5px 30px gray;
 }
 
 .missionPart__image {
@@ -122,3 +123,52 @@
 }
 
 /* mission part end */
+
+/* develope part start */
+
+.develope__part {
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: left center;
+}
+
+.develope__image {
+    width: 50%;
+    margin-left: 96px;
+}
+
+.develope__text {
+    width: 80%;
+    margin-right: 150px;
+}
+
+.develope__paragraph {
+    padding: 25px 0px;
+}
+
+.develope__heading {
+    margin-bottom: 10px;
+    font-size: 200%;
+}
+
+.develope__heading--active {
+    font-size: 200%;
+}
+
+/* develope part end */
+
+
+/* community part start */
+
+.community__part {
+    display: flex;
+    margin: 96px 96px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right bottom;
+}
+
+/* community part end */
