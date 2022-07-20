@@ -172,3 +172,23 @@
 }
 
 /* community part end */
+
+/* feedback part start */
+
+.feedback__part {
+    text-align: center;
+}
+
+.feedback__heading {
+    color: red;
+    margin-bottom: 20px;
+}
+
+.feedback__text {
+    color: black;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+/* feedback part end */
