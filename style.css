@@ -192,3 +192,31 @@
 }
 
 /* feedback part end */
+
+/* footer part start */
+
+.footer__part {
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    margin-top: 50px;
+    padding: 25px;
+    background-color: black;
+}
+
+.footer__heading {
+    font-family: serif;
+}
+
+#year {
+    color: tomato;
+}
+
+.footer__text {
+    padding: 15px;
+    color: gray;
+}
+
+/* footer part end */
